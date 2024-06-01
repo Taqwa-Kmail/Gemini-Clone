@@ -4,10 +4,10 @@ This project is a clone of the Gemini AI platform built using React JS and Vite.
 
 
 # Features
-1-React JS: A JavaScript library for building user interfaces.
-2-Vite: A fast build tool and development server for modern web projects.
-3-Google Generative AI SDK: Integration with the Gemini API for AI-powered responses.
-4- Context API: Manage global state across the application.
+1-React JS: A JavaScript library for building user interfaces<br>
+2-Vite: A fast build tool and development server for modern web projects.<br>
+3-Google Generative AI SDK: Integration with the Gemini API for AI-powered responses.<br>
+4- Context API: Manage global state across the application.<br>
 
 # To run the website:
 npm run dev
